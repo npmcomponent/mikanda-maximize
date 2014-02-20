@@ -1,0 +1,12 @@
+{
+  "name": "mikanda-maximize",
+  "description": "Maximizes the given element or query string and listens on window.resize.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-css": "git://github.com/npmcomponent/component-css.git",
+    "luka5-window-size": "git://github.com/npmcomponent/luka5-window-size.git"
+  },
+  "license": "LGPL"
+}

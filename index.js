@@ -1,6 +1,6 @@
-var query = require('query'),
-    css = require('css'),
-    windowSize = require('window-size');
+var query = require('component-query'),
+    css = require('component-css'),
+    windowSize = require('luka5-window-size');
 
 exports = module.exports = function (el, offset, min) {
   var listen,
